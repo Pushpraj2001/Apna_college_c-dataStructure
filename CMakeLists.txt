@@ -13,3 +13,5 @@ add_executable(WORKSHEET
         ifelse.cpp
         oddeven.cpp
         variable.cpp)
+
+

@@ -1,0 +1,3 @@
+D:/c++ data strt alg/WORKSHEET/cmake-build-debug/CMakeFiles/WORKSHEET.dir
+D:/c++ data strt alg/WORKSHEET/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c++ data strt alg/WORKSHEET/cmake-build-debug/CMakeFiles/rebuild_cache.dir
