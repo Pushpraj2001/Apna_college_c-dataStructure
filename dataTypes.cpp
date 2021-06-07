@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 int a;// declaration 
-a= 12;//intialsiton of value 
+a = 12;//intialsiton of value 
 
 cout<<"Size of int "<<sizeof(a)<<endl;
 
