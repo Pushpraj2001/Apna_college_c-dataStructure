@@ -4,6 +4,8 @@ Zig-Zag Pattern
   *   *  
  * * * *
 *   *   *
+this is the comment
+
 
 rows= 1 to 3
 coloumn = "*" = (row+coloumn)$4=0 &&   row=2 & c%4=0 
